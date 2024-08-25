@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/post-office2/static/css/main.623d9354.css",
+    "main.js": "/post-office2/static/js/main.09097782.js",
+    "index.html": "/post-office2/index.html",
+    "main.623d9354.css.map": "/post-office2/static/css/main.623d9354.css.map",
+    "main.09097782.js.map": "/post-office2/static/js/main.09097782.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.623d9354.css",
+    "static/js/main.09097782.js"
+  ]
+}
